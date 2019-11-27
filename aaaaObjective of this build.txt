@@ -1,0 +1,11 @@
+Objectives of this build:
+
+Build 4.0.0
+
+
+
+
+This is a new major baseline potential fork as the WSU team is looking at running VP for environmental studies.  Need to specify any changes to be sure they are appropriate for both EPA and WSU. This is the first verson to be managed on GitHub so I created a new version number (4.0.0) from VarroaPopWSU3.3.2.1.
+
+ 
+1.  
